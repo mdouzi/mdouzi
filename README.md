@@ -1,4 +1,4 @@
-# Hi, I'm Mdouzi!
+# Hi, I'm mohamed!
 
 ## About Me
 - Aspiring Software Engineer and student at 1337, part of the 42 Network schools
