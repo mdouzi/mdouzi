@@ -1,7 +1,7 @@
 # Hi, I'm mdouzi!
 
 ## About Me
-- Aspiring Software Engineer and student at 1337, part of the 42 Network schools
+- Aspiring Software Developer and student at 1337, part of the 42 Network schools
 - Passionate about coding and constantly learning new technologies
 - Focused, driven, and eager to grow as a developer 🦾
 
