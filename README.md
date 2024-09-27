@@ -7,12 +7,12 @@
 
 ## Skills
 - **Languages**: JavaScript, TypeScript, C, C++, Python, 
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express
+- **Frameworks & Libraries**: React, Django, Svelte
 - **Other**: Algorithms and Data Structures
 
 ## Education
 - **1337 School**, Morocco (Part of the 42 Network)
-  - Learning C, C++, algorithms, and data structures
+  - Learning python, Django, algorithms, and data structures
 - **Self-Study and Online Courses**
   - Continuously enhancing my skills through various online platforms and personal projects
 
